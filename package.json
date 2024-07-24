@@ -14,7 +14,7 @@
         "postcss-import": "^14.0.2",
         "@inertiajs/inertia": "^0.11.0",
         "@vue/babel-plugin-jsx": "^1.1.1",
-        "axios": "^0.26.1",
+        "axios": "^1.7.2",
         "cross-env": "^7.0.3",
         "form-backend-validation": "^2.4.0",
         "laravel-mix": "^6.0.43",
